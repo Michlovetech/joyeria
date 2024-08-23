@@ -1,0 +1,29 @@
+header{
+     background-color: blueviolet;
+     width: 50%;
+h1{     font-size: 24px;
+    color: rgb(216, 135, 196);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+}
+
+img{
+    width: 150px;
+}
+
+p{
+    font-size: 16px;
+    color: rgb(71, 63, 63);
+
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(157, 123, 189);
+}
+.contenedor{ display: flex;
+flex-direction: row;
+width: 100%;
+background-color: rgb(179, 141, 215);
+}
